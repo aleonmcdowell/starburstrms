@@ -3,7 +3,7 @@ sudo: false
 install: true
 addons:
   sonarcloud:
-    organization: "aleonmcdowell>-github"
+    organization: "aleonmcdowell"
     token:
       secure: "De/ZSpoMV5WLgnZgpeAAS4akkOIUwDEFnKZYxr9WL2zlkV1Vqgb5ViRFPehBtkEg2ut+heUFyaAWDX0XQIZFhp7Qi4EtDkIpPRBrUUfJzNIr+utBw6+JgRYzZrq/X9xQ6ANNruxLwN2A2ATs/m43O4PuOlK6HCAcw/aaCWbILSOgS5q9Od8YN8HrgOEmSXEXLNU8YcpT+eK3jy4ifAmtwf6D+T8I1Tymwq09aqE3Air4ImY1QaHpf9WKgtg4z3C5hN33leUGqJ7qh2615MIXxE0KonuRS8UvD00UVekHLoFENSPWL+aokdbLnBGxic+/cgnvDR/0pj2kAf/4bphm72cDSZ2EP2Dg2EOXJ4KgBMPO2mD8CLjH1Rr9rslbgQBl3HtjYBdj97JcE5ljY3vEWLGjGYIueiDrDix2gbdbz8hi9G1d5YjEgj4AnxR3OtRubLFQ76x6mMDFP/tjMSvCXCFWzFilh203rjr9I9paTdkai6NtaLH2zQZtejzRrZFcJAFsSTne5DOLlLOr0fDQ9Um0jRwYWU0ZVMNKsX/SiGTbHq4qjZSPWVN6mZhXkXvxSS5SCThgU8ZBv5q52VSrWn7o41h6u83iicWKd4aQ8l0LcLeZ7HyM0BJbcVp2w8/UpGS9ELRdb/yry7GelphzLXAze+wpFJHVhkh0PnGfzeI="
 
